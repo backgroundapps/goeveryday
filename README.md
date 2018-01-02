@@ -1,4 +1,4 @@
-# GO Every Day
+#  One GO task per time! 
 One GO task a day!
 
 * [Go lang Official Page](https://golang.org/)
