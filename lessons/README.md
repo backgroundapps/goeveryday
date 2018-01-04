@@ -4,4 +4,4 @@
 
 ---
 
-* [Next Lesson >> ]()
+* [Next Lesson >> ](https://tour.golang.org/basics/2)
