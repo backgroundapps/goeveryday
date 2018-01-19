@@ -12,4 +12,4 @@
 
 ---
 
-* [Next Lesson >> ](hthttps://tour.golang.org/basics/10)
+* [Next Lesson >> ](https://tour.golang.org/basics/10)
