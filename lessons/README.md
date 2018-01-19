@@ -7,8 +7,9 @@
 * [Functions continued](https://tour.golang.org/basics/5)
 * [Multiple results](https://tour.golang.org/basics/6)
 * [Named return values](https://tour.golang.org/basics/7)
-* [Variables](https://tour.golang.org/basics/8)
+* [Variables](https://tour.golang.org/basics/8
+* [Variables with initializers](https://tour.golang.org/basics/9)
 
 ---
 
-* [Next Lesson >> ](https://tour.golang.org/basics/9)
+* [Next Lesson >> ](hthttps://tour.golang.org/basics/10)
