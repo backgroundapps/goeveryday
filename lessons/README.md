@@ -9,7 +9,7 @@
 * [Named return values](https://tour.golang.org/basics/7)
 * [Variables](https://tour.golang.org/basics/8)
 * [Variables with initializers](https://tour.golang.org/basics/9)
-* [https://tour.golang.org/basics/10](https://tour.golang.org/basics/10)
+* [Short variable declarations](https://tour.golang.org/basics/10)
 ---
 
 * [Next Lesson >> ](https://tour.golang.org/basics/11)
