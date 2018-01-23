@@ -10,6 +10,7 @@
 * [Variables](https://tour.golang.org/basics/8)
 * [Variables with initializers](https://tour.golang.org/basics/9)
 * [Short variable declarations](https://tour.golang.org/basics/10)
+* [Basic Types](https://github.com/backgroundapps/letsgotime/blob/master/lessons/basic-types.go)
 ---
 
-* [Next Lesson >> ](https://tour.golang.org/basics/11)
+* [Next Lesson >> ](https://tour.golang.org/basics/12)
