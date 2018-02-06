@@ -14,6 +14,7 @@
 * [Zero values](https://tour.golang.org/basics/12)
 * [Type conversions](https://tour.golang.org/basics/13)
 * [Type inference](https://tour.golang.org/basics/14)
+* [Constants](https://tour.golang.org/basics/15)
 ---
 
-* [Next Lesson >> ](https://tour.golang.org/basics/15)
+* [Next Lesson >> ](https://tour.golang.org/basics/16)
