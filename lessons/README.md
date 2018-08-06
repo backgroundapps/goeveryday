@@ -16,5 +16,8 @@
 * [Type inference](https://tour.golang.org/basics/14)
 * [Constants](https://tour.golang.org/basics/15)
 ---
+* [For](https://tour.golang.org/flowcontrol/1)
+---
 
-* [Next Lesson >> ](https://tour.golang.org/basics/16)
+
+* [Next Lesson >> ](https://tour.golang.org/flowcontrol/2)
