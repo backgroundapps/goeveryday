@@ -17,7 +17,8 @@
 * [Constants](https://tour.golang.org/basics/15)
 ---
 * [For](https://tour.golang.org/flowcontrol/1)
+* [For - Default Init](https://tour.golang.org/flowcontrol/2)
 ---
 
 
-* [Next Lesson >> ](https://tour.golang.org/flowcontrol/2)
+* [Next Lesson >> ](https://tour.golang.org/flowcontrol/3)
