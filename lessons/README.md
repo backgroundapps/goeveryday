@@ -19,7 +19,8 @@
 * [For](https://tour.golang.org/flowcontrol/1)
 * [For - Default Init](https://tour.golang.org/flowcontrol/2)
 * [For is Go's "while"](https://tour.golang.org/flowcontrol/3)
+* [Forever](https://tour.golang.org/flowcontrol/4)
 ---
 
 
-* [Next Lesson >> ](https://tour.golang.org/flowcontrol/4)
+* [Next Lesson >> ](https://tour.golang.org/flowcontrol/5)
