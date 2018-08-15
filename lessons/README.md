@@ -22,7 +22,8 @@
 * [Forever](https://tour.golang.org/flowcontrol/4)
 * [If](https://tour.golang.org/flowcontrol/5)
 * [If with a short statement](https://tour.golang.org/flowcontrol/6)
+* [If and else](https://tour.golang.org/flowcontrol/7)
 ---
 
 
-* [Next Lesson >> ](https://tour.golang.org/flowcontrol/7)
+* [Next Lesson >> Exercise: Loops and Functions](https://tour.golang.org/flowcontrol/8)
